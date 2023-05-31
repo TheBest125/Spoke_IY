@@ -1,6 +1,7 @@
 # Spooky
+Made by Kevinbruyne
 
-[Spooky][live-link] is a streaming music app inspired by [Spotify][spotify]. It is a single-page full-stack web application built on React/Redux, Ruby on Rails, and a ProgresSQL database.
+It is a single-page full-stack web application built on React/Redux, Ruby on Rails, and a ProgresSQL database.
 
 ## Features
 
